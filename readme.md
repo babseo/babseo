@@ -1,6 +1,6 @@
 The Future is Insight - Eat. Sleep. DATA
 
-I'm Babs, a dynamic professional specializing in Data Engineering, AI, and Machine Learning, with a strong background in Software Engineering and Cloud Computing. I bring proven hands-on technical and leadership skills to every project. Throughout my career, I have addressed complex business challenges by designing scalable solutions, developing distributed data architectures, and building robust data engineering pipelines. 
+I'm Babs, a data professional ( Data Engineering, Analytics & AI ). I bring proven hands-on technical and leadership skills to every project. Throughout my career, I have addressed complex business challenges by designing scalable data solutions, developing distributed data architectures, and building robust data engineering pipelines. 
 
 My work with diverse and large datasets has driven significant outcomes, including cost reductions, platform scalability, and optimization, as well as enhancing user experiences through product iterations that support revenue growth.
 
